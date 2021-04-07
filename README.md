@@ -5,9 +5,11 @@ Identificar possíveis comportamentos na transmissão do Covid relacionados a vi
 
 ## **1. Motivação**
 ---
-Vivemos um momento complicado da Covid no Brasil onde batemos recordes de óbitos diariamente. Os casos confirmados também não param de subir e, por mais que a vacinação continue a avançar, infelizmente um vacinado não passa anticorpos para outro indivíduo. Mas o vírus continua se multiplicando 
+Vivemos um momento complicado da Covid no Brasil onde batemos recordes de óbitos diariamente. Os casos confirmados também não param de subir e, por mais que a vacinação siga firme, infelizmente um vacinado não passa anticorpos para outro indivíduo, ao contrário do vírus, que ao infectar uma pessoa continua infectando muitas outras.
 
-e Eleições presidenciais em 2018 (considerando 1º turno)
+Analisando alguns estados em particular, surgiu uma hipótese: A incidência de votos em um candidado à presidente da república na última eleição (2018) pode ter tido influência na taxa de contaminação de cada estado?
+
+
 
 
 
