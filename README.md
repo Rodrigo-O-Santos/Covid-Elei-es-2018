@@ -1,7 +1,6 @@
 # Covid & Eleições-2018
 Identificar possíveis comportamentos na transmissão do Covid relacionados a vieses políticos com base na eleição presidencial em 2018.
 
-![image](https://user-images.githubusercontent.com/60569541/113927127-74449280-97c3-11eb-92fa-bfad056cbf6c.png)
 ![image](https://user-images.githubusercontent.com/60569541/113933023-778f4c80-97ca-11eb-9af8-94e3e8fa0df4.png)
 
 ## **1. Motivação**
