@@ -13,10 +13,13 @@ Para isso, foram analisadas as seguintes bases de dados:
 - Covid: base acessada em 17/março/2021 - https://covid.saude.gov.br/
 - Resultado das eleições presidenciais 2018 (1º turno): bases por estado, acessadas através do aplicativo do TSE - https://bit.ly/3mA2bu3
 
+Com estas bases é possível tentar responder a seguinte questão específica:
+- Existe correlação entre os votos nos 3 candidatos mais votados para presidente, considerando o 1º tunro em 2018, e os casos acumulados de Covid em cada estado?
 
+Para responder esta pergunta, é possível realizar uma análise exploratória inicial de dados.
 
 ## **2.** ***Insights***
----
+-
 
 
 
