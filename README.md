@@ -48,7 +48,7 @@ Podemos observar que as correlações entre o % votos e no % de casos acumulados
 
 
 ## **3. Principal argumento**
-"As evidências disponíveis atualmente apontam que o vírus causador da COVID-19 pode se espalhar por meio do contato direto, indireto (através de superfícies ou objetos contaminados) ou próximo (na faixa de um metro) com pessoas infectadas através de secreções como saliva e secreções respiratórias ou de suas gotículas respiratórias, que são expelidas quando uma pessoa tosse, espirra, fala ou canta. As pessoas que estão em contato próximo (a menos de 1 metro) com uma pessoa infectada podem pegar a COVID-19 quando essas gotículas infecciosas entrarem na sua boca, nariz ou olhos." ***Organização Pan-Americana da Saúde (OPAS)
+"As evidências disponíveis atualmente apontam que o vírus causador da COVID-19 pode se espalhar por meio do contato direto, indireto (através de superfícies ou objetos contaminados) ou próximo (na faixa de um metro) com pessoas infectadas através de secreções como saliva e secreções respiratórias ou de suas gotículas respiratórias, que são expelidas quando uma pessoa tosse, espirra, fala ou canta. As pessoas que estão em contato próximo (a menos de 1 metro) com uma pessoa infectada podem pegar a COVID-19 quando essas gotículas infecciosas entrarem na sua boca, nariz ou olhos." ***Organização Pan-Americana da Saúde (OPAS)***
 
 Com isso, é esperado que os indivíduos mantenham boa higiene das mãos, usem máscara de proteção facial e distanciamento social para evitar o contágio. Porém, algumas pessoas não acreditam ou não seguem estas orientações que tem a sua origem na OMS - Organização Mundial da Saúde.
 
@@ -81,7 +81,7 @@ Verificação de correlações entre as variáveis descritas anteriormente usand
 
 
 
-## **5. Principais *insights**
+## **5. Principais *insights***
     1. 
 
 
