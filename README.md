@@ -20,9 +20,8 @@ Com estas bases é possível tentar responder a seguinte questão específica:
 Para responder esta pergunta, é possível realizar uma análise exploratória inicial de dados.
 
 
-
-## **2.** ***Insights***
-Em resposta, podemos observar as correlações entre o % votos e no % de casos acumulados até 17/março/21 por população de cada estado:
+## **2.** Principais ***insights*** vericados
+Podemos observar que as correlações entre o % votos e no % de casos acumulados até 17/março/21 por população de cada estado variam de acordo com o candidato analisado:
 - Mais votado: **Bolsonaro** (46.03% dos votos válidos)
 
     correlação = 0.55
@@ -48,7 +47,25 @@ Em resposta, podemos observar as correlações entre o % votos e no % de casos a
     r²         = 0.21
 
 
-## **3.** ***Insights***
+## **3. Principal argumento**
+"As evidências disponíveis atualmente apontam que o vírus causador da COVID-19 pode se espalhar por meio do contato direto, indireto (através de superfícies ou objetos contaminados) ou próximo (na faixa de um metro) com pessoas infectadas através de secreções como saliva e secreções respiratórias ou de suas gotículas respiratórias, que são expelidas quando uma pessoa tosse, espirra, fala ou canta. As pessoas que estão em contato próximo (a menos de 1 metro) com uma pessoa infectada podem pegar a COVID-19 quando essas gotículas infecciosas entrarem na sua boca, nariz ou olhos." Organização Pan-Americana da Saúde (OPAS)
+
+Com isso, é esperado que os indivíduos mantenham boa higiene das mãos, usem máscara de proteção facial e distanciamento social para evitar o contágio. Porém, algumas pessoas não acreditam ou não seguem estas orientações que tem a sua origem na OMS - Organização Mundial da Saúde.
+
+No Brasil, este tema se politizou através de comportamentos e discursos do Presidente da República ao não seguir as recomendações da OMS enquanto adversários políticos adotavam medidas opostas, seguindo todas as recomendações.
+
+A hipótese anteriormente apresentada neste artigo, tem como argumento a conduta dos eleitores que, seguindo o comportamento dos seus respectivos candidatos, poderiam ou não, contribuir com uma maior transmissão do vírus.
+
+Para contextualizar, podemos ver estados do país onde houve predominância dos votos em determinados candidatos nas eleições de 2018:
+    - SC com 65% dos votos válidos em Bolsonaro;
+    - PI com 63% dos votos válidos em Haddad;
+    - CE com 40% dos votos válidos em Ciro.
+
+Neste sentido, se os eleitores do Bolsonaro seguem o comportamento do Presidente, então não se preocupariam com a higiene das mãos, não usariam máscaras de proteção facial e não evitariam aglomerações. Como consequência, haveria maior casos de Covid/população (%) em locais de predominância dos votos no Presidente.
+
+
+
+
 
 
 
