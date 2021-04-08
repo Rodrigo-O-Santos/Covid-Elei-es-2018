@@ -82,7 +82,13 @@ Verificação de correlações entre as variáveis descritas anteriormente usand
 
 
 ## **5. Principais *insights***
-    1. 
+    1. Voto em Bolsonaro, é o que possui a maior correlação positiva em relação aos casos acumulados de Covid por população por estado. Analisando cada estado, quanto maior o percentual de votos em Bolsonaro, maior o percentual de número de casos de Covid por população.
+    2. Os estados do PI (63% de votos em Haddad e 11% em Ciro) e CE (40% de votos em Ciro e 33% em Haddad) foram os que menos votaram em Bolsonaro (% de votos/população) e figuram entre os que possuem menor taxa percentual de casos de Covid pela população.
+    3. Os estados do RJ e SP, apesar de terem mais de 50% de votos no Bolsonaro, estão entre os 11 estados com menor % de casos acumulados de Covid em relação à população, assim como PI e CE.
+
+
+
+## **6. **
 
 
 
