@@ -20,7 +20,7 @@ Com estas bases é possível tentar responder a seguinte questão específica:
 Para responder esta pergunta, é possível realizar uma análise exploratória inicial de dados.
 
 
-## **2.** Principais ***insights*** vericados
+## **2. Resultados das análises**
 Podemos observar que as correlações entre o % votos e no % de casos acumulados até 17/março/21 por população de cada estado variam de acordo com o candidato analisado:
 - Mais votado: **Bolsonaro** (46.03% dos votos válidos)
 
@@ -67,11 +67,22 @@ Para contextualizar, podemos ver estados do país onde houve predominância dos 
 Neste sentido, se os eleitores do Bolsonaro seguem o comportamento do Presidente, então não se preocupariam com a higiene das mãos, não usariam máscaras de proteção facial e não evitariam aglomerações. Como consequência, haveria maior casos de Covid/população (%) em locais de predominância dos votos no Presidente.
 
 
-## **4. Etapas deste projeto**
+## **4. Etapas do projeto**
+O projeto teve os seguintes passos:
+
+**Passo 1 -** Descrição dos dados
+Identificação de dados ausentes, tipos de dados e alterações relevantes para futura análise.
+
+**Passo 2 -** Inclusão de variáveis
+Inclusão de novas variáveis para permitir maior e mais completa análise através de dados relevantes adicionados ao *dataset*.
+
+**Passo 3 -** Análise dos dados
+Verificação de correlações entre as variáveis descritas anteriormente usando análise bivariada e multivariada.
 
 
 
-
+## **5. Principais *insights* **
+    1. 
 
 
 
