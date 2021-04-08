@@ -6,7 +6,7 @@ Identificar possíveis comportamentos na transmissão do Covid relacionados a vi
 
 
 ## **1. Motivação**
----
+-
 Vivemos um momento complicado da Covid no Brasil onde batemos recordes de óbitos diariamente. Os casos confirmados também não param de subir e, por mais que a vacinação siga firme, infelizmente um vacinado não passa anticorpos para outro indivíduo, ao contrário do vírus, que ao infectar uma pessoa continua infectando muitas outras.
 
 Analisando os dados da Covid no Brasil, surgiu uma hipótese: Existe alguma correlação entre os casos de Covid no Brasil e as eleições presidenciais ocorridas em 2018?
@@ -23,7 +23,7 @@ Para responder esta pergunta, é possível realizar uma análise exploratória i
 
 
 ## **2.** ***Insights***
----
+-
 Em resposta, podemos observar as correlações entre o % votos e no % de casos acumulados até 17/março/21 por população de cada estado:
 - Mais votado: **Bolsonaro** (46.03% dos votos válidos)
 
@@ -51,7 +51,7 @@ Em resposta, podemos observar as correlações entre o % votos e no % de casos a
 
 
 ## **3.** ***Insights***
----
+-
 
 
 
