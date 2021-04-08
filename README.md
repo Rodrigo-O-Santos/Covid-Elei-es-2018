@@ -67,7 +67,7 @@ Para contextualizar, podemos ver estados do país onde houve predominância dos 
 Neste sentido, se os eleitores do Bolsonaro seguem o comportamento do Presidente, então não se preocupariam com a higiene das mãos, não usariam máscaras de proteção facial e não evitariam aglomerações. Como consequência, haveria maior casos de Covid/população (%) em locais de predominância dos votos no Presidente.
 
 
-
+## **4. Etapas deste projeto**
 
 
 
