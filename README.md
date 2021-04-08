@@ -22,25 +22,25 @@ Para responder esta pergunta, é possível realizar uma análise exploratória i
 
 ## **2.** ***Insights***
 Em resposta, podemos observar as correlações entre o % votos e no % de casos acumulados até 17/março/21 por população de cada estado:
-- Mais votado: Bolsonaro (46.03%)
+- Mais votado: **Bolsonaro** (46.03% dos votos válidos)
 
     correlação = 0.55
 
     r²         = 0.30
 
-- 2º mais votado: Haddad (29.28%)
+- 2º mais votado: **Haddad** (29.28% dos votos válidos)
     
     correlação = -0.29
     
     r²         =  0.08
 
-- 3º mais votado: Ciro (12.47%)
+- 3º mais votado: **Ciro** (12.47% dos votos válidos)
     
     correlação = 0.04
     
     r²         = 0.0016
 
-- Soma dos demais candidatos (12.22%)
+- Soma dos **demais candidatos** (12.22% dos votos válidos)
     
     correlação = 0.46
     
