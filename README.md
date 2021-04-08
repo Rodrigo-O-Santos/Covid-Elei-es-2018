@@ -57,11 +57,12 @@ No Brasil, este tema se politizou através de comportamentos e discursos do Pres
 A hipótese anteriormente apresentada neste artigo, tem como argumento a conduta dos eleitores que, seguindo o comportamento dos seus respectivos candidatos, poderiam ou não, contribuir com uma maior transmissão do vírus.
 
 Para contextualizar, podemos ver estados do país onde houve predominância dos votos em determinados candidatos nas eleições de 2018:
-    - **SC** com **65%** dos votos válidos em **Bolsonaro**;
+   
+   - **SC** com **65%** dos votos válidos em **Bolsonaro**;
      
-    - **PI** com 63% dos votos válidos em Haddad;
+   - **PI** com **63%** dos votos válidos em **Haddad**;
     
-    - CE com 40% dos votos válidos em Ciro.
+   - **CE** com **40%** dos votos válidos em **Ciro**.
 
 Neste sentido, se os eleitores do Bolsonaro seguem o comportamento do Presidente, então não se preocupariam com a higiene das mãos, não usariam máscaras de proteção facial e não evitariam aglomerações. Como consequência, haveria maior casos de Covid/população (%) em locais de predominância dos votos no Presidente.
 
