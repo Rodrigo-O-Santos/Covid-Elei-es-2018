@@ -112,6 +112,8 @@ Importante estar atento à correta interpretação do coeficiente:
 
 Apesar da existência de uma correlação moderada entre duas variáveis nesta pesquisa, é importante entender como elas se correlacionam com todo o contexto, para não incorrer no erro de chegarmos a uma conclusão baseada em uma mera eventualidade. 
 
+![image](https://user-images.githubusercontent.com/60569541/114087743-a10fad00-988a-11eb-9517-860edec60313.png)
+
 
 ## **7. Próximos passos**
 Espera-se o aprimoramento desta pesquisa tornando-a mais robusta através da inclusão de novas variáveis relevantes ao *dataset*. Algumas sugestões para novos ciclos do CRISP:
