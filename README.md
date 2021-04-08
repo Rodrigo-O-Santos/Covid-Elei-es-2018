@@ -88,12 +88,30 @@ Verificação de correlações entre as variáveis descritas anteriormente usand
 
 
 
-## **6. **
+## **6. Conclusões**
+O coeficiente de correlação se mostra efetivo para medir o grau de correlação, assim como a sua direção (positiva ou negativa) entre duas variáveis de escala métrica. 
+
+Variando entre -1 e 1 onde:
+
+- correlação = 0, indica que as variáveis não dependem uma da outra.
+
+- correlação 1, indica uma correlação positiva perfeita entre as variáveis.
+
+- correlação -1, indica uma correlação negativa perfeita (se uma aumenta, a outra diminui).
+
+Importante estar atento à correta interpretação do coeficiente:
+
+0.9 para mais ou para menos indica uma correlação muito forte.
+0.7 a 0.9 positivo ou negativo indica uma correlação forte.
+0.5 a 0.7 positivo ou negativo indica uma correlação moderada.
+0.3 a 0.5 positivo ou negativo indica uma correlação fraca.
+0 a 0.3 positivo ou negativo indica uma correlação desprezível.
+
+Apesar da existência de uma correlação moderada entre duas variáveis nesta pesquisa, é importante entender como elas se correlacionam com todo o contexto, para não incorrer no erro de chegarmos a uma conclusão baseada em uma mera eventualidade. 
 
 
-
-Propostas para próximos passos:
-- Tipo sanguíneo
-- clima 
-- comparar com rejeição ao longo do tempo
-- 
+## **7. Próximos passos**
+Espera-se o aprimoramento desta pesquisa tornando-a mais robusta através da inclusão de novas variáveis relevantes ao *dataset*. Algumas sugestões para novos ciclos do CRISP:
+- Inclusão da condição geral de saúde das pessoas infectadas como o tipo sanguíneo;
+- O clima e a taxa de infecção pelo Covid por estação em cada estado;
+- Comparar a taxa de infecção pelo Covid em cada estado, de acordo com o aumento da rejeição do Presidente.
