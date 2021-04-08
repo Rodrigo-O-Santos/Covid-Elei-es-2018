@@ -45,6 +45,9 @@ Podemos observar que as correlações entre o % votos e no % de casos acumulados
     correlação = 0.46
     
     r²         = 0.21
+    
+    ![image](https://user-images.githubusercontent.com/60569541/114087506-5857f400-988a-11eb-91ab-13be43fbdd11.png)
+
 
 
 ## **3. Principal argumento**
