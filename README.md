@@ -101,8 +101,8 @@ Variando entre -1 e 1 onde:
 - correlação 1, indica uma correlação positiva perfeita entre as variáveis.
 
 - correlação -1, indica uma correlação negativa perfeita (se uma aumenta, a outra diminui).
-
-
+  
+  
 Importante estar atento à correta interpretação do coeficiente:
 
 0.9 para mais ou para menos indica uma correlação muito forte.
