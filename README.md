@@ -119,7 +119,7 @@ Importante estar atento à correta interpretação do coeficiente:
 
 Apesar da existência de uma correlação moderada entre duas variáveis nesta pesquisa, é importante entender como elas se correlacionam com todo o contexto, para não incorrer no erro de chegarmos a uma conclusão baseada em uma mera eventualidade. 
 
-![image](https://user-images.githubusercontent.com/60569541/114087743-a10fad00-988a-11eb-9517-860edec60313.png)
+![image](https://user-images.githubusercontent.com/60569541/114233345-85240e00-9953-11eb-8c3d-3720e9016be4.png)
 
 
 ## **7. Próximos passos**
