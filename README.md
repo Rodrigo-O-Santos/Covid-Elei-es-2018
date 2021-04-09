@@ -124,6 +124,8 @@ Apesar da existência de uma correlação moderada entre duas variáveis nesta p
 
 ## **7. Próximos passos**
 Espera-se o aprimoramento desta pesquisa tornando-a mais robusta através da inclusão de novas variáveis relevantes ao *dataset*. Algumas sugestões para novos ciclos do CRISP:
-- Inclusão da condição geral de saúde das pessoas infectadas como o tipo sanguíneo;
+- Realizar análises por cidades como Manaus, São Paulo e outros hotspots;
+
 - O clima e a taxa de infecção pelo Covid por estação em cada estado;
+
 - Comparar a taxa de infecção pelo Covid em cada estado, de acordo com o aumento da rejeição do Presidente.
