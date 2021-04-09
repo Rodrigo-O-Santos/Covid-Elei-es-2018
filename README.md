@@ -74,12 +74,15 @@ Neste sentido, se os eleitores do Bolsonaro seguem o comportamento do Presidente
 O projeto teve os seguintes passos:
 
 **Passo 1 -** Descrição dos dados
+
 Identificação de dados ausentes, tipos de dados e alterações relevantes para futura análise.
 
 **Passo 2 -** Inclusão de variáveis
+
 Inclusão de novas variáveis para permitir maior e mais completa análise através de dados relevantes adicionados ao *dataset*.
 
 **Passo 3 -** Análise dos dados
+
 Verificação de correlações entre as variáveis descritas anteriormente usando análise bivariada e multivariada.
 
 
