@@ -105,9 +105,13 @@ Variando entre -1 e 1 onde:
 Importante estar atento à correta interpretação do coeficiente:
 
 0.9 para mais ou para menos indica uma correlação muito forte.
+
 0.7 a 0.9 positivo ou negativo indica uma correlação forte.
+
 0.5 a 0.7 positivo ou negativo indica uma correlação moderada.
+
 0.3 a 0.5 positivo ou negativo indica uma correlação fraca.
+
 0 a 0.3 positivo ou negativo indica uma correlação desprezível.
 
 Apesar da existência de uma correlação moderada entre duas variáveis nesta pesquisa, é importante entender como elas se correlacionam com todo o contexto, para não incorrer no erro de chegarmos a uma conclusão baseada em uma mera eventualidade. 
