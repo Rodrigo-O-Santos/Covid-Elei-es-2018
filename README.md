@@ -25,6 +25,8 @@ Podemos observar que as correlações entre o % votos e no % de casos acumulados
 - Mais votado: **Bolsonaro** (46.03% dos votos válidos)
 
     correlação = 0.55
+    
+    p-valor = 0.0032
 
     r²         = 0.30
 
@@ -32,17 +34,23 @@ Podemos observar que as correlações entre o % votos e no % de casos acumulados
     
     correlação = -0.29
     
+    p-valor = 0.14
+    
     r²         =  0.08
 
 - 3º mais votado: **Ciro** (12.47% dos votos válidos)
     
     correlação = 0.04
     
+    p-valor = 0.84
+    
     r²         = 0.0016
 
 - Soma dos **demais candidatos** (12.22% dos votos válidos)
     
     correlação = 0.46
+    
+    p-valor = 0.015
     
     r²         = 0.21
     
@@ -124,6 +132,7 @@ Apesar da existência de uma correlação moderada entre duas variáveis nesta p
 
 ## **7. Próximos passos**
 Espera-se o aprimoramento desta pesquisa tornando-a mais robusta através da inclusão de novas variáveis relevantes ao *dataset*. Algumas sugestões para novos ciclos do CRISP:
+
 - Realizar análises por cidades como Manaus, São Paulo e outros hotspots;
 
 - O clima e a taxa de infecção pelo Covid por estação em cada estado;
